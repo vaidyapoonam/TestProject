@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-19T10:46:54 GMT+05:30" name="Default suite" finished-at="2022-04-19T10:47:01 GMT+05:30" duration-ms="6919">
+    <groups>
+    </groups>
+    <test started-at="2022-04-19T10:46:54 GMT+05:30" name="Default test" finished-at="2022-04-19T10:47:01 GMT+05:30" duration-ms="6919">
+      <class name="Newgroup1.Newgroup2.AppTest">
+        <test-method is-config="true" signature="transform()[pri:0, instance:Newgroup1.Newgroup2.AppTest@15c43bd9]" started-at="2022-04-19T10:46:54 GMT+05:30" name="transform" finished-at="2022-04-19T10:47:00 GMT+05:30" duration-ms="6496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transform -->
+        <test-method signature="TopOperators()[pri:0, instance:Newgroup1.Newgroup2.AppTest@15c43bd9]" started-at="2022-04-19T10:47:00 GMT+05:30" name="TopOperators" finished-at="2022-04-19T10:47:00 GMT+05:30" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TopOperators -->
+        <test-method signature="theNumbersAreGrowing()[pri:0, instance:Newgroup1.Newgroup2.AppTest@15c43bd9]" started-at="2022-04-19T10:47:00 GMT+05:30" name="theNumbersAreGrowing" finished-at="2022-04-19T10:47:01 GMT+05:30" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theNumbersAreGrowing -->
+      </class> <!-- Newgroup1.Newgroup2.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
